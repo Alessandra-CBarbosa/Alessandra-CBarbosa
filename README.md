@@ -9,7 +9,7 @@
 
 
 
-
+<h3> :hibiscus: Estatisticas do meu GitHub: <br></h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alessandra-CBarbosa&show_icons=true&theme=dracula)
 
