@@ -8,6 +8,9 @@
 
 
 
+:red_circle: :red_circle: Perfil ainda em construção :red_circle::red_circle:
+
+
 
 <h3> :hibiscus: Estatisticas do meu GitHub: <br></h3>
 
