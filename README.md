@@ -25,6 +25,18 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alessandra-CBarbosa&repo=calculadora&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
+ <div>
+    <h3 align="left">:hibiscus: Conecte-se Comigo:</h3>
+     <p align="left">
+         <a href="https://www.linkedin.com/in/alessandra-barbosa-65404328b/" target="blank">
+             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alessandra-CBarbosa" height="30" width="40" />
+         </a>
+         
+        
+     
+ </div>
+
+
 <div>
 <img align="right" alt="Mila-pic" height="150" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
 </div>
