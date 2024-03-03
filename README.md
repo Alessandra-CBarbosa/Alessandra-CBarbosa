@@ -41,3 +41,5 @@
 <div>
 <img align="right" alt="Mila-pic" height="150" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=987990&height=120&section=footer"/>
