@@ -11,6 +11,7 @@
 
 :red_circle: :red_circle: Perfil ainda em construção :red_circle::red_circle:
 
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
 <h3> 🌺Estatisticas do meu GitHub: <br></h3>
@@ -25,6 +26,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alessandra-CBarbosa&repo=calculadora&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
  <div>
     <h3 align="left">🌺 Conecte-se Comigo:</h3>
