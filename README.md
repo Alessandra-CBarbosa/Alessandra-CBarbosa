@@ -49,6 +49,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png">
    
 </div>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
   
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
