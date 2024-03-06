@@ -36,10 +36,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      <!--icone github-->
       <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png">
-    
    
 </div>
-
 
   
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
