@@ -56,7 +56,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 
 
-<h3> 🌺Estatisticas do meu GitHub: <br></h3>
+<h3> 🌺Estatisticas do meu GitHub: </h3>
 
 <div>
 <a href="https://github.com/Alessandra-CBarbosa">
