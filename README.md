@@ -12,7 +12,9 @@
 :red_circle: :red_circle: Perfil ainda em construção :red_circle::red_circle:
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<h3> 🌺 Habilidades: </h3>
 
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h3> 🌺Estatisticas do meu GitHub: <br></h3>
 
