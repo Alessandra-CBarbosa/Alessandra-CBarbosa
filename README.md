@@ -12,6 +12,8 @@
 :red_circle: :red_circle: Perfil ainda em construção :red_circle::red_circle:
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
 <h3> 🌺 Habilidades: </h3>
 
  <div style="display: inline_block"><br>    
@@ -37,20 +39,23 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     
    
 </div>
+
+
   
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+
+
 <h3> 🌺Estatisticas do meu GitHub: <br></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alessandra-CBarbosa&show_icons=true&theme=dracula)
+<div>
+<a href="https://github.com/Alessandra-CBarbosa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandra-CBarbosa&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alessandra-CBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alessandra-CBarbosa&repo=calculadora&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
