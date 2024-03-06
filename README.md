@@ -14,6 +14,30 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <h3> 🌺 Habilidades: </h3>
 
+ <div style="display: inline_block"><br>    
+    
+   <!--icone-html-->
+  <img align="center" alt="liviacorreiadasilva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <!--icone-css-->
+  <img align="center" alt="liviacorreiadasilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--icone javascript-->
+  <img align="center" alt="liviacorreiadasilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <!--icone-python-->
+  <img align="center" alt="liviacorreiadasilva-Python" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<!--icone java-->
+     <img align="center" alt=" " height="30" width="20"
+     src="https://seeklogo.com/images/J/java-logo-B158C160FE-seeklogo.com.png">
+    <!--icone vscode-->
+    <img align="center" alt=" " height="30" width="40" 
+     src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
+     <!--icone github-->
+      <img align="center" alt=" " height="30" width="40" 
+     src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png">
+    
+   
+</div>
+  
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <h3> 🌺Estatisticas do meu GitHub: <br></h3>
