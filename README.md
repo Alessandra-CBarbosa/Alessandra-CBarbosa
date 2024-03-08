@@ -47,8 +47,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      <!--icone github-->
       <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png">
-   
 </div>
+<br/>
 <div> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </div>
 
 
