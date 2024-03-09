@@ -1,3 +1,10 @@
+
+
+ <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+<br><br>
+
+
+
 <h1 align="center">:hibiscus:Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, meu nome é Alessandra. Seja bem vindo(a)!🌺</h1>
 
 
@@ -25,8 +32,7 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-<h3> 🌺 Habilidades: </h3>
-
+<h3> 🌺 Habilidades: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3> 
  <div style="display: inline_block"><br>    
     
    <!--icone-html-->
@@ -57,7 +63,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 
 
-<h3> 🌺Estatisticas do meu GitHub: </h3>
+<h3> 🌺Estatisticas do meu GitHub:<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h3>
 
 <div>
 <a href="https://github.com/Alessandra-CBarbosa">
@@ -73,20 +79,19 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 
  <div>
-    <h3 align="left">🌺 Conecte-se Comigo:</h3>
+    <h3 align="left">🌺 Conecte-se Comigo:<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3>
      <p align="left">
          <a href="https://www.linkedin.com/in/alessandra-barbosa-65404328b/" target="blank">
              <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alessandra-CBarbosa" height="30" width="40" />
          </a>
-         
         
-     
  </div>
 
 
 <div>
 <img align="right" alt="Mila-pic" height="150" style="border-radius:50px;" src="https://tgram.ru/wiki/stickers/img/BabyYoda/gif/5.gif">
 </div>
+
 
  <div align="center">
         <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff75d0&descAlign=50&descAlignY=50&reversal=false&section=footer"/>
