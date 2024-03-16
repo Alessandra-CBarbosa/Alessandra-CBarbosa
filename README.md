@@ -61,12 +61,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 <h3> 🌺Estatisticas do meu GitHub:<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> </h3>
 
-<div>
-<a href="https://github.com/Alessandra-CBarbosa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandra-CBarbosa&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alessandra-CBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>  
+  <span>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alessandra-CBarbosa&show_icons=true&theme=dracula" alt="Alessandra GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandra-CBarbosa&layout=compact&theme=dracula" alt="Top Langs" />
+  </span>
 </div>
-
+<br><br>
 
 
 
