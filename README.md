@@ -28,6 +28,16 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
+<h3 align="center" style="color: #fff">🌺🌺Contagem de visitantes🌺🌺</h3>
+<br>
+<p align="center">
+  <a href="https://github.com/Alessandra-CBarbosa"><img src="https://profile-counter.glitch.me/SweetCoding115/count.svg" alt="SweetCoding115 :: SweetCoding115's Count" /></a>
+</p>
+<br>
+
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+
 <h3> 🌺 Habilidades: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3> 
  <div style="display: inline_block"><br>    
     
