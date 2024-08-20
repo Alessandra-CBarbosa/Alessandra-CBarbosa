@@ -60,6 +60,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
  <div style="display: inline_block"><br>   
    <!-- icone git -->
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
+   <! -- incone C -->
+   <img align = "center" alt = "C" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <!-- icone csharp-->
    <img align="center" alt=" " height="30" width="40" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
