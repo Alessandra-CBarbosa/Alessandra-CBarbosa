@@ -100,8 +100,12 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 <br>
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<h2> 🌺Acesse aqui a página do meu projeto Front-End:</h2>
+<br/>
+  🌺https://alessandra-cbarbosa.github.io/Refugio-Solidario/ 
+<br/>
 
-
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  <div>
     <h3 align="left">🌺 Conecte-se Comigo:<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3>
      <p align="left">
