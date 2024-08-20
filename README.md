@@ -52,7 +52,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
       <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/G/github-logo-9BBCA663A4-seeklogo.com.png">
     
-     
+  
 </div>
 <br/>
  <div style="display: inline_block"><br>   
@@ -61,6 +61,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     <!-- icone csharp-->
    <img align="center" alt=" " height="30" width="40" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+      <!-- icone .net-->
+   <img align="center" alt=" " height="30" width="40" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+
+   
  </div>
 
 
