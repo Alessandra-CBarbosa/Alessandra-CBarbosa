@@ -102,7 +102,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <h2> 🌺Acesse aqui a página do meu projeto Front-End:<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2>
 <br><br>
- <p align="center"> 🌺https://alessandra-cbarbosa.github.io/Refugio-Solidario/ </p>
+ <p align="center"> 🌺https://alessandra-cbarbosa.github.io/Refugio-Solidario/    🌺 </p>
 <br><br>
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
