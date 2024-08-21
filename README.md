@@ -1,15 +1,13 @@
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ffb6c1&text=Alessandra%20Barbosa&fontSize=45&fontColor=cccccc80&animation=twinkling"></div>
 
-
-
-<h1 align="center">:hibiscus:Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, meu nome é Alessandra. Seja bem vindo(a)!🌺</h1>
+<h1 align="center">:hibiscus:Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. Seja bem vindo(a)!🌺</h1>
 
 <br>
 
 
 
 <h3 align="center">🌺Estou em uma fase de transição para a área da tecnologia, estudando Análise e Desenvolvimento de Sistemas para ampliar meus conhecimentos e habilidades. Esta é uma área na qual tenho me encontrado e se tornou uma grande paixão para mim.💗💻</h3>
-
-
 
 
 <p align="center">
@@ -24,6 +22,8 @@
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
+
+
 
 
 
