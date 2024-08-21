@@ -1,4 +1,4 @@
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ffb6c1&text=Alessandra%20Barbosa&fontSize=45&fontColor=cccccc80&animation=twinkling"></div>
 
 <h1 align="center">:hibiscus:Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">. Seja bem vindo(a)!🌺</h1>
