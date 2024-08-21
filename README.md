@@ -68,6 +68,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
       <!-- icone .net-->
    <img align="center" alt=" " height="30" width="40" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+     <!--icone figma-->
+    <img align="center" alt=" " height="30" width="40" 
+    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
 
    
  </div>
