@@ -71,8 +71,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      <!--icone figma-->
     <img align="center" alt=" " height="30" width="40" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
-
-   
+    <!-- icone sql-->
+   <img align="center" alt=" " height="50" width="40" 
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" >
+    
  </div>
 
 
