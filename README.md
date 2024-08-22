@@ -129,5 +129,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 
  <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=fddec9&section=footer"/>
+        <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=ffbba8&section=footer"/>
       </div>
