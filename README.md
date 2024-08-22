@@ -1,7 +1,7 @@
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=ffb6c1&text=Alessandra%20Barbosa&fontSize=45&fontColor=cccccc80&animation=twinkling"></div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=shark&height=120&color=fddec9&section=header"></div>
 
-<h1 align="center">:hibiscus:Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Seja bem vindo(a)!🌺</h1>
+<h1 align="center">:hibiscus:Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Alessandra. Seja bem vindo(a)!🌺</h1>
 
 <br>
 
