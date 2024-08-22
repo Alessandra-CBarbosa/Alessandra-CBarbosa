@@ -1,7 +1,7 @@
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=shark&height=120&color=fddec9&section=header"></div>
 
-<h1 align="center">:hibiscus:Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Alessandra. Seja bem vindo(a)!🌺</h1>
+<h1 align="center">:hibiscus:🌼Olá! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Alessandra. Seja bem vindo(a)!🌼🌺</h1>
 
 <br>
 
@@ -99,7 +99,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 
 
-<h3 align="center" style="color: #fff">🌺🌺Contagem de visitantes🌺🌺</h3>
+<h3 align="center" style="color: #fff">🌺🌼🌺Contagem de visitantes🌺🌼🌺</h3>
 <br>
 <p align="center">
   <a href="https://github.com/Alessandra-CBarbosa"><img src="https://profile-counter.glitch.me/SweetCoding115/count.svg" alt="SweetCoding115 :: SweetCoding115's Count" /></a>
