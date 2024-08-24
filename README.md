@@ -121,7 +121,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  <div>
     <h3 align="left">🌺 Conecte-se Comigo:<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3>
-     <p align="left">
+    <div style="display: inline_block"><br>    
+    <a href="https://discord.com/channels/1205515972933451786/1224435448152330421" target="blank">
+  <img align="center" src="https://github.com/onemarc/tech-icons/blob/main/icons/discord-dark.svg" alt="Alessandra-CBarbosa" height="40" width="40" />
          <a href="https://www.linkedin.com/in/alessandra-barbosa-65404328b/" target="blank">
              <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alessandra-CBarbosa" height="30" width="40" />
          </a>
