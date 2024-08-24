@@ -67,7 +67,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
       <!-- icone .net-->
    <img align="center" alt=" " height="30" width="40" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg">
+     src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg?short_path=dcabd15">
      <!--icone figma-->
     <img align="center" alt=" " height="30" width="40" 
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
