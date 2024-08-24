@@ -79,7 +79,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
     <!-- icone sql-->
    <img align="center" alt=" " height="50" width="40" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" >
+         src="https://github.com/Workshape/tech-icons/blob/master/icons/sql.svg" >
     
  </div>
 
