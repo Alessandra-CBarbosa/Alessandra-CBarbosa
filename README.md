@@ -46,7 +46,7 @@
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <!-- icone BI-->
 <img align="center" alt=" " height="30" width="40" 
- src=https://github.com/onemarc/tech-icons/blob/main/icons/powerbi-dark.svg>
+ src= https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000>
 <!--icone java-->
      <img align="center" alt=" " height="30" width="20"
      src="https://seeklogo.com/images/J/java-logo-B158C160FE-seeklogo.com.png">
