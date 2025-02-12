@@ -52,7 +52,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
      src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
     <!--icone vscode-->
     <img align="center" alt=" " height="30" width="40" 
-     src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
+     src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
      <!--icone github-->
       <img align="center" alt=" " height="30" width="40" 
      src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000">
