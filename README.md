@@ -54,7 +54,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     <img align="center" alt=" " height="30" width="40" 
      src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
      <!--icone github-->
-      <img align="center" alt=" " height="30" width="40" 
+      <img align="center" alt=" " height="40" width="40" 
      src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000">
     
   
