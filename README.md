@@ -48,8 +48,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 <img align="center" alt=" " height="30" width="40" 
  src= https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000>
 <!--icone java-->
-     <img align="center" alt=" " height="30" width="20"
-     src="https://seeklogo.com/images/J/java-logo-B158C160FE-seeklogo.com.png">
+     <img align="center" alt=" " height="40" width="40"
+     src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
     <!--icone vscode-->
     <img align="center" alt=" " height="30" width="40" 
      src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png">
