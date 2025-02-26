@@ -80,7 +80,11 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
     <!-- icone sql-->
    <img align="center" alt=" " height="50" width="40" 
          src="https://github.com/Workshape/tech-icons/blob/master/icons/sql.svg" >
-    
+    <!-- icone ui/ux --->
+    <img align="center" alt=" " height="35" width="35" 
+         src="https://github.com/user-attachments/assets/3ca91051-480c-4840-9bd8-5729feca58b4" >
+  
+
  </div>
 
 
