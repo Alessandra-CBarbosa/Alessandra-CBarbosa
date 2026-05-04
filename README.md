@@ -30,62 +30,39 @@
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
+<h3>🌺 Habilidades: 
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+</h3>
 
-  
-<h3> 🌺 Habilidades: <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3> 
- <div style="display: inline_block"><br>    
-    
-   <!--icone-html-->
-  <img align="center" alt="liviacorreiadasilva-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <!--icone-css-->
-  <img align="center" alt="liviacorreiadasilva-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--icone javascript-->
-  <img align="center" alt="liviacorreiadasilva-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <!--icone-python-->
-  <img align="center" alt="liviacorreiadasilva-Python" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<!-- icone BI-->
-<img align="center" alt=" " height="30" width="40" 
- src= https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000>
-<!--icone java-->
-     <img align="center" alt=" " height="40" width="40"
-     src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
-    <!--icone vscode-->
-    <img align="center" alt=" " height="30" width="40" 
-     src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
-     <!--icone github-->
-      <img align="center" alt=" " height="40" width="40" 
-     src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000">
-    
-  
+<div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
+
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img height="30" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
+  <img height="30" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
+  <img height="30" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
+  <img height="30" src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000">
+
+  <img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg?raw=true">
+  <img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg?raw=true">
+  <img height="30" src="https://github.com/Workshape/tech-icons/blob/master/icons/sql.svg?raw=true">
+
+  <img height="30" src="https://github.com/user-attachments/assets/3ca91051-480c-4840-9bd8-5729feca58b4">
+
 </div>
-<br/>
- <div style="display: inline_block"><br>   
-   <!-- icone git -->
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
-   <! -- incone C -->
-   <img align = "center" alt = "C" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   <!-- icone c++ -->
-      <img align="center" alt=" " height="30" width="40" 
-     src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <!-- icone csharp-->
-   <img align="center" alt=" " height="30" width="40" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-      <!-- icone .net-->
-   <img align="center" alt=" " height="30" width="40" 
-     src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg?short_path=dcabd15">
-     <!--icone figma-->
-    <img align="center" alt=" " height="30" width="40" 
-    src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
-    <!-- icone sql-->
-   <img align="center" alt=" " height="50" width="40" 
-         src="https://github.com/Workshape/tech-icons/blob/master/icons/sql.svg" >
-    <!-- icone ui/ux --->
-    <img align="center" alt=" " height="35" width="35" 
-         src="https://github.com/user-attachments/assets/3ca91051-480c-4840-9bd8-5729feca58b4" >
   
 
- </div>
+    
+  
 
 
   
