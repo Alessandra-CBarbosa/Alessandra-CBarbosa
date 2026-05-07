@@ -45,7 +45,9 @@
   <img height="30" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000">
   <img height="30" src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000">
   <img height="30" src="https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000">
-
+</div> 
+<br>
+  <div style="display: flex; align-items: center; gap: 10px; flex-wrap: nowrap; overflow-x: auto;">
   <img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
